@@ -1,0 +1,11 @@
+d:\downloads\dotnet\Report\fyiReporting\DataProviders\bin\Debug\DataProviders.dll
+d:\downloads\dotnet\Report\fyiReporting\DataProviders\bin\Debug\DataProviders.pdb
+d:\downloads\dotnet\Report\fyiReporting\DataProviders\bin\Debug\DataProviders.dll.mdb
+d:\downloads\dotnet\Report\fyiReporting\DataProviders\bin\Debug\DataProviders.DataProviders.apk
+d:\downloads\dotnet\Report\fyiReporting\DataProviders\bin\Debug\DataProviders.DataProviders-Signed.apk
+d:\downloads\dotnet\Report\fyiReporting\DataProviders\obj\Debug\DataProviders.dll
+d:\downloads\dotnet\Report\fyiReporting\DataProviders\obj\Debug\DataProviders.pdb
+d:\downloads\dotnet\Report\fyiReporting\DataProviders\obj\Debug\android\bin\DataProviders.DataProviders.apk
+d:\downloads\dotnet\Report\fyiReporting\DataProviders\obj\Debug\res\values\strings.xml
+d:\downloads\dotnet\Report\fyiReporting\DataProviders\obj\Debug\R.cs.flag
+d:\downloads\dotnet\Report\fyiReporting\DataProviders\obj\Debug\uploadflags.txt

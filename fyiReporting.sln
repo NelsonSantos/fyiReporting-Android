@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProviders", "DataProviders\DataProviders.csproj", "{DB9256B6-9CBA-4A8B-A0CC-680AAC64AECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RdlEngine", "RdlEngine\RdlEngine.csproj", "{5E13853B-799D-435F-A32F-DD57712EB709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTextSharpAndroid", "iTextSharp\iTextSharpAndroid.csproj", "{33774801-1E9B-4766-B766-94F6B217BC12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9256B6-9CBA-4A8B-A0CC-680AAC64AECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9256B6-9CBA-4A8B-A0CC-680AAC64AECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9256B6-9CBA-4A8B-A0CC-680AAC64AECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9256B6-9CBA-4A8B-A0CC-680AAC64AECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E13853B-799D-435F-A32F-DD57712EB709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E13853B-799D-435F-A32F-DD57712EB709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E13853B-799D-435F-A32F-DD57712EB709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E13853B-799D-435F-A32F-DD57712EB709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33774801-1E9B-4766-B766-94F6B217BC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33774801-1E9B-4766-B766-94F6B217BC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33774801-1E9B-4766-B766-94F6B217BC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33774801-1E9B-4766-B766-94F6B217BC12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
